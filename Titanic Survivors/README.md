@@ -16,7 +16,7 @@ In this challenge, I built a predictive model that answers the question: “what
 
 * Using Python in Jupyter Notebook, imported the train and test CSV's provided 
 
-* Performed data manipulation and cleaning to fill in missing values, create new columns where necessary, and transform the values into dummy variables for the machine learning model to train on
+* Performed data manipulation and cleaning to fill in missing values, created new columns where necessary, and transformed the values into dummy variables for the machine learning model to train on
 
 * Chose RandomForestClassifier supervised learning model to train the data, as it had the highest accuracy out of the other models 
 
