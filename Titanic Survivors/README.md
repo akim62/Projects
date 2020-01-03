@@ -34,7 +34,7 @@ In this challenge, I built a predictive model that answers the question: “what
 
 **Analysis:** 
 
-* It makes sense that whether the passenger was Male or Female would be a good predictor whether he/she survived because usually in catastrophic situations, the cultural norm was to first make sure the women and children are okay
+* It makes sense that whether the passenger was male or female would be a good predictor whether he/she survived because usually in catastrophic situations, the cultural norm was to first make sure the women and children were okay
 
 * A person's age would be a intuitive factor for survival because young children and women may have been prioritized over others of much older age
 
