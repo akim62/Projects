@@ -32,7 +32,7 @@ In this challenge, I built a predictive model that answers the question: “what
 
 * According to the model, the most impactful features were Sex, Age, and Fare
 
-**Analysis:** 
+## Analysis 
 
 * It makes sense that whether the passenger was male or female would be a good predictor whether he/she survived because usually in catastrophic situations, the cultural norm was to first make sure the women and children were okay
 
