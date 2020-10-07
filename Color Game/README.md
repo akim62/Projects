@@ -1,3 +1,3 @@
 # Choose The Right Color 
 
-![color-game.png](color.png)
+![color-game.png](color-game.png)
